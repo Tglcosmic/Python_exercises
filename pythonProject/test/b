@@ -1,0 +1,17 @@
+<cars>
+<car>
+<brands> ford </brands><models> wild track </models><years>  2019 </years><colors> red </colors>
+</car>
+<car>
+<brands> honda </brands><models> city </models><years>  2020 </years><colors> blue </colors>
+</car>
+<car>
+<brands> toyota </brands><models> hulix </models><years>  2021 </years><colors> black </colors>
+</car>
+<car>
+<brands> mazda </brands><models> cx 6 </models><years>  2022 </years><colors> yellow </colors>
+</car>
+<car>
+<brands> kia </brands><models> santa fee </models><years>  2023 </years><colors> orange </colors>
+</car>
+</cars>

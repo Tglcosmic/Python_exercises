@@ -1,0 +1,4 @@
+hành chính,PS00000,Nguyễn Văn A,100.0
+tiếp thị,PS00001,Nguyễn Văn B,100.0,12.0,10.0
+trưởng phòng,PS00002,Nguyễn Văn C,100.0,300.0
+3,PS00005,Trần Con C,200.0

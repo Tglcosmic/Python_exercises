@@ -1,0 +1,7 @@
+PS00005,nguyen van m,400.0
+PS00003,nguyen van o,30000.0
+PS00004,nguyen van d,3000.0
+PS00007,tran thi d,3000.0
+PS00008,nguyen thi am,3000.0
+PS00001,nguyen van a,2000.0
+PS00002,nguyen van e,1200.0
